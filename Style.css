@@ -1,0 +1,317 @@
+h1 {
+  font-size: 2.5rem;
+}
+
+.Gelo {
+  padding-top: 20px;
+  padding-left: 20px;
+}
+
+.Dbtn {
+  text-align: center;
+}
+
+.Bisoy {
+  padding-top: 80px;
+  color: black;
+}
+
+.Tagline {
+  font-family: 'Montserrat'inherit;
+  text-align: center;
+  margin-top: 50px;
+}
+
+.btnleft {
+  margin-left: 20%;
+  margin-top: 20px;
+}
+
+.btnright {
+  margin-top: 20px;
+  margin-left: 2%;
+}
+
+.btnRB {
+  margin-top: 20px;
+  margin-left: 2%;
+}
+
+.btnMTB {
+  margin-top: 20px;
+  margin-left: 2%;
+}
+
+.navbar {
+  padding: 0px 0px 18px 0px;
+}
+
+.navbar-brand {
+  font-size: 5px;
+  font-weight: bold;
+  font-family: 'Ubuntu';
+}
+
+.logo-image {
+  width: 50px;
+  height: 50px;
+  overflow: visible;
+  margin-top: 5px;
+  margin-left: 40px;
+}
+
+.nav-item {
+  padding: 0;
+  font-family: 'Montserrat';
+  font-weight: 100;
+  font-size: 1.2rem;
+}
+
+.hakdog {
+  text-align: center;
+  padding: 4.5%;
+  position: static;
+  margin-top: -20px;
+}
+
+.image {
+  width: 75%;
+  height: 58%;
+  margin-top: 0px;
+}
+
+.Text {
+  padding: 0px 18px;
+  font-family: 'Montserrat';
+  font-weight: 100;
+  font-size: 1.2rem;
+  text-align: justify;
+}
+
+#ser {
+  padding: 80px 0;
+}
+
+/* BEST SELLING BIKES! */
+.service1 {
+  margin-top: 20px;
+  width: 350px;
+  height: 300px;
+}
+
+.service2 {
+  width: 350px;
+  height: 300px;
+  margin-top: 20px;
+}
+
+.service3 {
+  width: 350px;
+  height: 300px;
+  margin-top: 20px;
+}
+
+.services {
+  padding: 20px;
+}
+
+.services h4 {
+  padding: 5px;
+  margin-top: 25px;
+  text-transform: uppercase;
+}
+
+
+#sample .btn-primary {
+  box-shadow: none;
+  padding: 8px, 25px;
+  border: none;
+  border-radius: 20px;
+}
+
+/* OEM/ODM ADVANTAGES */
+#pricing{
+  text-align: center;
+}
+.price-card{
+  padding: 20px;
+}
+.card {
+  padding: 1%;
+  max-width: auto;
+  text-align: justify;
+}
+.details{
+  font-size: 1rem;
+}
+
+.team {
+  padding: 10vmin 4vmin;
+  margin-bottom: 20px;
+}
+.card-body a {
+  font-size: 1.5rem;
+  margin-bottom: 20px;
+}
+@media (max-width: 990px){
+  .card-body{
+    background-color: yellow;
+    font-size: 1.5rem;
+    margin-bottom: 20px;
+  }
+  .card {
+    padding: 1%;
+    max-width: auto;
+    text-align: center;
+  }
+
+}
+.carousel-item {
+  padding-left: 3rem;
+  margin-bottom: 20px;
+}
+
+.border-radius {
+  border-radius: 340px;
+  width: 60%;
+}
+
+.OEM {
+  margin-top: 50px;
+}
+
+
+/* Features */
+#Features {
+  background-color: #FFBB11;
+}
+
+.row2 {
+  padding: 10vmin 4vmin;
+}
+
+/* To change the icon color */
+.fa-bicycle:hover {
+  color: #FFFFDD;
+}
+
+.fa-person-running:hover {
+  color: #FFFFDD;
+}
+
+.fa-id-card:hover {
+  color: #FFFFDD;
+}
+
+.fa-cart-arrow-down:hover {
+  color: #FFFFDD;
+}
+
+.inner {
+  text-align: center;
+}
+
+.testimonials {
+  margin-top: 60px;
+}
+
+.press-logo {
+  width: 20%;
+  height: 20%;
+  margin: 60px 20px 50px;
+}
+
+/* testimonial */
+#testimonials {
+  text-align: center;
+  background-color: inherit;
+  padding: 5%;
+}
+
+.carousel-inner {
+  margin-top: 80px;
+}
+
+.testimonial-image {
+  width: 10%;
+  margin: 1% 1%;
+  border-radius: 50%;
+}
+
+em {
+  font-size: 20px;
+}
+
+.Card {
+  margin-top: 80px;
+}
+
+.Seasonal {
+  margin-top: 50px;
+  text-align: center;
+}
+
+/* press */
+#press {
+  text-align: center;
+  background-color: #FFBB11;
+  padding: 2%;
+  margin-top: 80px;
+}
+
+.press-image {
+  width: 20%;
+  margin: 2%;
+}
+
+.press-image1 {
+  width: 20%;
+  margin: 2%;
+}
+
+.press-image2 {
+  width: 20%;
+  margin: 2%;
+}
+
+.press-image3 {
+  width: 20%;
+  margin: 2%;
+}
+
+/* Card */
+.Card {
+  margin-left: 20px;
+  margin-right: 20px;
+  margin-bottom: 20px;
+  text-align: justify;
+}
+
+.col {
+  margin-bottom: 50px;
+}
+
+.stars {
+  margin-bottom: 20px;
+}
+
+#footer {
+  text-align: center;
+  padding-top: 50px;
+}
+
+.footericon {
+  margin-right: 20px;
+}
+
+#cta {
+  padding-top: 80px;
+  padding-bottom: 80px;
+  background-color: #FFBB11;
+  text-align: center;
+}
+
+#title {
+  position: sticky;
+  top: 0px;
+  z-index: 10;
